@@ -1,0 +1,87 @@
+{
+  "cars": [
+    {
+      "brand": "Toyota",
+      "brandId": 1,
+      "models": [
+        {
+          "modelId": "001",
+          "name": "Camry",
+          "engine": "2.5L",
+          "year": 2022,
+          "color": "White",
+          "features": [
+            "Bluetooth",
+            "Backup Camera",
+            "Adaptive Cruise Control"
+          ],
+          "price": 30000
+        },
+        {
+          "modelId": "002",
+          "name": "Corolla",
+          "engine": "1.8L",
+          "year": 2021,
+          "color": "Blue",
+          "features": [
+            "Apple CarPlay",
+            "Lane Departure Warning",
+            "Heated Seats"
+          ],
+          "price": 22000
+        }
+      ]
+    },
+    {
+      "brand": "BMW",
+      "brandId": 2,
+      "models": [
+        {
+          "modelId": "003",
+          "name": "X5",
+          "engine": "3.0L Turbo",
+          "year": 2023,
+          "color": "Black",
+          "features": [
+            "Panoramic Sunroof",
+            "Harman Kardon Audio",
+            "360-degree Camera"
+          ],
+          "price": 60000
+        },
+        {
+          "modelId": "004",
+          "name": "320i",
+          "engine": "2.0L Turbo",
+          "year": 2020,
+          "color": "Red",
+          "features": [
+            "Leather Seats",
+            "Navigation System",
+            "Keyless Entry"
+          ],
+          "price": 35000
+        }
+      ]
+    },
+    {
+      "brand": "Subaru",
+      "brandId": 3,
+      "models": [
+        {
+          "modelId": "005",
+          "name": "Levorg",
+          "engine": "2.4L Turbo",
+          "year": 2023,
+          "color": "Blue",
+          "features": [
+            "Leather seats",
+            "Keyless entry",
+            "Full-Wheel-Drive"
+          ],
+          "price": 35000
+        }
+      ]
+    }
+  ]
+}

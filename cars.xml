@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+  <brand name="Toyota" brandId="1">
+    <model modelId="001">
+      <name>Camry</name>
+      <engine>2.5L</engine>
+      <year>2022</year>
+      <color>White</color>
+      <features>
+        <feature>Bluetooth</feature>
+        <feature>Backup Camera</feature>
+        <feature>Adaptive Cruise Control</feature>
+      </features>
+      <price>30000</price>
+    </model>
+    <model modelId="002">
+      <name>Corolla</name>
+      <engine>1.8L</engine>
+      <year>2021</year>
+      <color>Blue</color>
+      <features>
+        <feature>Apple CarPlay</feature>
+        <feature>Lane Departure Warning</feature>
+        <feature>Heated Seats</feature>
+      </features>
+      <price>22000</price>
+    </model>
+  </brand>
+  <brand name="BMW" brandId="2">
+    <model modelId="003">
+      <name>X5</name>
+      <engine>3.0L Turbo</engine>
+      <year>2023</year>
+      <color>Black</color>
+      <features>
+        <feature>Panoramic Sunroof</feature>
+        <feature>Harman Kardon Audio</feature>
+        <feature>360-degree Camera</feature>
+      </features>
+      <price>60000</price>
+    </model>
+    <model modelId="004">
+      <name>320i</name>
+      <engine>2.0L Turbo</engine>
+      <year>2020</year>
+      <color>Red</color>
+      <features>
+        <feature>Leather Seats</feature>
+        <feature>Navigation System</feature>
+        <feature>Keyless Entry</feature>
+      </features>
+      <price>35000</price>
+    </model>
+  </brand>
+  <brand name="Subaru" brandId="3">
+    <model modelId="005">
+      <name>Levorg</name>
+      <engine>2.4L Turbo</engine>
+      <year>2023</year>
+      <color>Blue</color>
+      <features>
+        <feature>Leather seats</feature>
+        <feature>keyless entry</feature>
+        <feature>Full-Wheel-Drive</feature>
+      </features>
+      <price>35000</price>
+    </model>
+  </brand>
+  <brand name="Subaru" brandId="3">
+    <model modelId="005">
+      <name>Levorg</name>
+      <engine>2.4L Turbo</engine>
+      <year>2023</year>
+      <color>Blue</color>
+      <features>
+        <feature>Leather seats</feature>
+        <feature>keyless entry</feature>
+        <feature>Full-Wheel-Drive</feature>
+      </features>
+      <price>35000</price>
+    </model>
+  </brand>
+</cars>
